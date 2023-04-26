@@ -1,0 +1,36 @@
+
+
+ h2, body, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: dimgrey;
+}
+h1, .subheading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    
+}
+
+.header{
+    width: 100%;
+    padding:60px 0;
+    text-align: center;
+    background: lightgrey;
+  }
+  
+body{
+    background-color:honeydew;
+}
+
+.vid{
+    height:fit-content;
+    width:fit-content;
+}
+
+.pic{
+    width: 45%;
+    height: 45%;
+}
+
+.topright{
+    text-align:right
+}
